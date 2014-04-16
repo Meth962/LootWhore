@@ -6,9 +6,11 @@ Terraria Plugin
 This mod allows you to watch and report on certain items that are picked up as well as a Loot Rolling system instead of "first come first serve" item ninja'ing.
 
 Versions
+--------
 1.2 - First on github
 
 Commands
+--------
 /lw
 /lootwhore - Gives help on available commands
 
@@ -31,6 +33,7 @@ Commands
 /pass - Pass on an item for loot rolling
 
 TODO List
+---------
 Store watch list in database and not config file
 Add permissions to loot roll enabling
 Allow only nearby players to roll on loot or base on Team color
